@@ -4,7 +4,15 @@
 
 <div style="margin-top: 50px">
   <div style="display: grid; grid-template-columns: repeat(2,1fr); gap: 20px; max-width: 900px">
-     <div>
+    <div>
+      <h1>Meals App</h1>
+      <img src="./images/meals-app.gif" alt="Discord interface clone with Vue.js" style="max-width: 100%;">
+      <ul>
+        <li><a href="https://barbosadiego.github.io/meals-app-repo/" target="_blank">View project here</a></li>
+        <li><a href="https://github.com/barbosadiego/meals-app-vue" target="_blank">Repository</a></li>
+      </ul>
+    </div>
+    <div>
       <h1>News App</h1>
       <img src="./images/NewsApp.gif" alt="Discord interface clone with Vue.js" style="max-width: 100%;">
       <ul>
